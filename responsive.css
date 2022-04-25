@@ -1,0 +1,38 @@
+@media (max-width: 670px){
+    .heading{
+        padding: 50px 15px;
+    }
+
+    .courses{
+        flex-direction: column;
+    }
+    .course{
+        width: 100%;
+    }
+
+    nav{
+        display: none;
+    }
+    header{
+        padding: 0 50px;
+    }
+    .web-heading{
+        float: left;
+    }
+    .menu-icon{
+        display: block;
+    }
+
+    .footer-left{
+        float: none;
+        margin-bottom: 20px;
+    }
+    .footer-right{
+        float: none;
+        display: inline-block;
+    }
+
+    footer{
+        text-align: center;
+    }
+}
